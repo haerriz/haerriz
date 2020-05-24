@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="web/images/logo.png" type="image/png" sizes="16x16">
     <title>Haerriz Ravikkumar</title>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <!-- CSS only -->
